@@ -22,7 +22,7 @@ open.addEventListener('click',function(){
             </div>
             <div class="btn">           
                 <a href="https://wahyu9kdl.github.io/islami">github</a>
-                <a href="mailto:mikrodinet@gmail.com">gmail</a>                                                  
+                <a href="mailto:cs@awdev.my.id">gmail</a>                                                  
             </div>
             <h1>
             Wellcome Go To AWDEV. 
@@ -107,9 +107,9 @@ open.addEventListener('click',function(){
             <li><a href="https://www.awdev.my.id/android/vc/editor.html">Editor Code</a></li>
             <li><a href="https://www.awdev.my.id/android/character.html">Character</a></li>
             <li><a href="https://www.awdev.my.id/android/index.html">Android Asset</a></li>
-            <li><a href="http://www.awdev.my.id/android/EQ/index.html">EQ Generator</a></li>
+            <li><a href="https://www.awdev.my.id/android/EQ/index.html">EQ Generator</a></li>
             <li><a href="https://www.awdev.my.id/android/privasy/index.html">APP Privasy Generator</a></li>
-            <li><a href="www.awdev.my.id/android/studio/index.html">AWDEV STUDIO</a></li>
+            <li><a href="https://www.awdev.my.id/android/studio/index.html">AWDEV STUDIO</a></li>
             </ul>
             </li>
             <li><a href="https://www.awdev.my.id/thema">Thema</a><ul>
