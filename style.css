@@ -71,17 +71,17 @@ body {
     width: 80%;
     height: auto;
     box-shadow: 0 0 0.5rem rgba(0,0,0,0.2);
-    border-radius: 1rem;
+    border-radius: 2rem;
     background: transparent;
     backdrop-filter: blur(10px);
 }
 .kotak img.profile {
-    filter: drop-shadow(0 0 10px red);
+    filter: drop-shadow(1 1 10px red);
     position: absolute;
     width: 100px;
     height: 100px;
     border-radius: 0.5rem;
-    top: calc(-85px / 2);
+    top: calc(-10px / 2);
     left: 50%;
     transform: translateX(-50%);
     transition: 1s;
