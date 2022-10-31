@@ -263,7 +263,116 @@ data-full-width-responsive="true"></ins>
 <span class="a"></span>
 <span class="b"></span>
 <span class="c"></span>
-
+<style type="text/css">
+    
+    .spiralContainer {
+    border-radius: 50%;
+    width:200px;
+    height:200px;
+    overflow:hidden;
+    margin:20px;
+    
+    -webkit-animation: spin 3s linear 0s infinite reverse;
+    -moz-animation: spin 3s linear 0s infinite reverse;  
+    -ms-animation: spin 3s linear 0s infinite reverse;
+    -o-animation: spin 3s linear 0s infinite reverse;
+    animation: spin 3s linear 0s infinite reverse;
+    
+    -webkit-animation-play-state: paused;
+    -moz-animation-play-state: paused;
+    -ms-animation-play-state: paused;
+    -o-animation-play-state: paused;  
+    animation-play-state: paused;
+    }
+    .spiral {
+    width:200px;
+    height:200px;
+    border-radius: 50%;
+    background-image: url(https://www.iwa.id/ribbon/iwa-sotm-badge.png);
+    background-repeat:no-repeat;
+    background-position:50% 50%;
+    
+    
+    -webkit-animation: spin 6s linear 0s infinite normal;
+    -moz-animation: spin 6s linear 0s infinite normal;
+    -ms-animation: spin 6s linear 0s infinite normal;
+    -o-animation: spin 6s linear 0s infinite normal;
+    animation: spin 6s linear 0s infinite normal;
+    }
+    .spiral1 {
+    width:200px;
+    height:200px;
+    border-radius: 50%;
+    background-image: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjn1JCZlzYQ0p0ejNkFq4tX_5ZKE0JvXeiQbaV9KHLTHsAziIP18iN8vM2Lf7TDhkGtS_HG8ts5PzDimcX3BJSktWnKwbGOWPzlhOg0s3PqX9ebEuATciDrQDMcZxGD-xvAKivayeiM4StIvRZ9BxITN4PfpU2IJI_lJ7xXolcPYhkbiTuKM-FpbJ-e/s320/awdev-record.png );
+    background-repeat:no-repeat;
+    background-position:50% 50%;
+    
+    
+    -webkit-animation: spin 6s linear 0s infinite normal;
+    -moz-animation: spin 6s linear 0s infinite normal;
+    -ms-animation: spin 6s linear 0s infinite normal;
+    -o-animation: spin 6s linear 0s infinite normal;
+    animation: spin 6s linear 0s infinite normal;
+    }
+    .spiralContainer:hover {
+    -webkit-animation-play-state: running;
+    -moz-animation-play-state: running;
+    -ms-animation-play-state: running;
+    -o-animation-play-state: running;
+    animation-play-state: running;
+    }
+    @keyframes spin {
+    0% { transform: rotate(360deg); }
+    100% { transform: rotate(0deg); }
+    }
+    @-webkit-keyframes spin {
+    0% {-webkit-transform: rotate(360deg); }
+    100% { -webkit-transform: rotate(0deg); }
+    }
+    @-ms-keyframes spin {
+    0% {-ms-transform: rotate(360deg); }
+    100% { -ms-transform: rotate(0deg); }
+    }
+    @-moz-keyframes spin {
+    0% { -moz-transform: rotate(360deg); }
+    100% { -moz-transform: rotate(0deg); }
+    }
+    @-o-keyframes spin {
+    0% { -o-transform: rotate(360deg); }
+    100% { -o-transform: rotate(0deg); }
+    }
+    
+    </style>
+    <!-- NOTE: In Chrome there is a brief glitch during the transition after the first one -->
+    <center>
+    <a href="https://www.iwa.id/2021/aug/alhikmah-my-id"/><div class='spiralContainer'>
+    <div class='spiral'></div></div></a></center></div></!doctype>
+    <div class="separator" style="clear: both; text-align: center;">
+    <iframe allowfullscreen="" class="BLOG_video_class" height="322" src="https://www.youtube.com/embed/RtOFDcTFJ08 " width="80%" youtube-src-id="RtOFDcTFJ08 "></iframe></div>
+    
+    
+    <center>
+    <a href=" https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjn1JCZlzYQ0p0ejNkFq4tX_5ZKE0JvXeiQbaV9KHLTHsAziIP18iN8vM2Lf7TDhkGtS_HG8ts5PzDimcX3BJSktWnKwbGOWPzlhOg0s3PqX9ebEuATciDrQDMcZxGD-xvAKivayeiM4StIvRZ9BxITN4PfpU2IJI_lJ7xXolcPYhkbiTuKM-FpbJ-e/s320/awdev-record.png "/>
+    <div class='spiralContainer'>
+    <div class='spiral1'></div></div></a></center></div></!doctype>
+    
+    <audio autoplay="" controls="">
+    <source autostart="true" loop="true" src="music.aac" type="audio/mpeg"></source>
+    </audio>
+    
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5295583488737876"
+    crossorigin="anonymous"></script>
+    <!-- Iklan gratis -->
+    <ins class="adsbygoogle"
+    style="display:block"
+    data-ad-client="ca-pub-5295583488737876"
+    data-ad-slot="6648059473"
+    data-ad-format="auto"
+    data-full-width-responsive="true"></ins>
+    <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+    </script><!doctype html>
+    
 <audio autoplay="" controls="">
 <source autostart="true" loop="true" src="music.aac" type="audio/mpeg"></source>
 </audio>
