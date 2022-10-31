@@ -347,9 +347,8 @@ data-full-width-responsive="true"></ins>
     <center>
     <a href="https://www.iwa.id/2021/aug/alhikmah-my-id"/><div class='spiralContainer'>
     <div class='spiral'></div></div></a></center></div></!doctype>
-    <div class="separator" style="clear: both; text-align: center;">
-    <iframe allowfullscreen="" class="BLOG_video_class" height="322" src="https://www.youtube.com/embed/RtOFDcTFJ08 " width="80%" youtube-src-id="RtOFDcTFJ08 "></iframe></div>
     
+     <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen="" class="BLOG_video_class" height="266" src="https://www.youtube.com/embed/RtOFDcTFJ08" width="100%" youtube-src-id="RtOFDcTFJ08"></iframe></div><br /><div class="separator" style="clear: both; text-align: center;"><br /></div></div>
     
     <center>
     <a href=" https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjn1JCZlzYQ0p0ejNkFq4tX_5ZKE0JvXeiQbaV9KHLTHsAziIP18iN8vM2Lf7TDhkGtS_HG8ts5PzDimcX3BJSktWnKwbGOWPzlhOg0s3PqX9ebEuATciDrQDMcZxGD-xvAKivayeiM4StIvRZ9BxITN4PfpU2IJI_lJ7xXolcPYhkbiTuKM-FpbJ-e/s320/awdev-record.png "/>
@@ -371,12 +370,10 @@ data-full-width-responsive="true"></ins>
     data-full-width-responsive="true"></ins>
     <script>
     (adsbygoogle = window.adsbygoogle || []).push({});
-    </script><!doctype html>
+    </script>
     
-<audio autoplay="" controls="">
-<source autostart="true" loop="true" src="music.aac" type="audio/mpeg"></source>
-</audio>
 `;
 
 
 });
+
